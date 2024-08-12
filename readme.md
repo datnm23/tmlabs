@@ -11,9 +11,9 @@
   - lab07:Seach keyword in folder
   - lab08:Print tree directory
 
-## Structure of testing
-- Use lap08 to print structure of the testing
-
+## Labs Structure
+- Use lap08 to print structure of the labs
+```bash
   |--tmlabs
   |  |--lab01
   | | |--contents.txt
@@ -63,3 +63,4 @@
   | | |--tesla
   | | | |--readme.md
   | | |--twitter
+```
